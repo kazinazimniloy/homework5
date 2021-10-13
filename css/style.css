@@ -1,0 +1,69 @@
+.header{
+	min-height: 80px;
+	background-color: red;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+.contact{
+    height: 100px;
+    width: 60%;
+    background-color: blue;
+    float: left;
+}
+.blog{
+	height: 100px;
+	width: 40%;
+	background-color: green;
+	float: right;
+
+}
+.container{
+	overflow: hidden;
+
+}
+.single{
+	min-height: 100px;
+	width: 33.33%;
+
+}
+.cyan{
+	background-color: cyan;
+	float: left;
+}
+.orange{
+	background-color: orange;
+	float: left;
+}
+.yellow{
+	background-color: yellow;
+	float: left;
+}
+.box{
+	overflow: hidden;
+}
+.book{
+	min-height: 100px;
+	width: 25%;
+}
+.pink{
+	background-color: pink;
+    float: left;
+}
+.maroon{
+	background-color: maroon;
+	float: left;
+}
+.violet{
+	background-color: violet;
+	float: left;
+}
+.azure{
+	background-color: azure;
+	float: left;
+}
+.footer{
+	min-height: 50px;
+	background-color: black;
+}
